@@ -1,0 +1,1 @@
+export { default as Example } from './00 module';
